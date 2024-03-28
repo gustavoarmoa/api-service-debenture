@@ -9,3 +9,18 @@ A duração do projeto pode girar em torno de 6 meses ou mais e terá um fluxo d
 
 O frontend do projeto deixo Headless totalmente agnostico para que possa integrar a qualquer Dashboard atual ou podemo chamar e vemos de sua necessidade em particular para colocar um frontend ou alguma integração que faça sentido para seu negócio.
 
+### Milestones
+* Documentação da API
+* Estratégia de autenticação (Flow)
+* Design de entidades
+* Case de usos
+* Fluxo de endpoints
+* Modelagem de bancos de dados
+* Desenvolvimento
+* Fluxo de CI/CD
+* Deploy
+* Segurança
+* Benchmarks de APIs
+
+**Projeto em andamento** ...
+
